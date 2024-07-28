@@ -2,7 +2,7 @@
   "type": "minecraft:the_end",
   "generator": {
     "type": "minecraft:noise",
-    "settings": "minecraft:nether",
+    "settings": "minecraft:end",
     "biome_source": {
       "type": "minecraft:multi_noise",
       "biomes": [
